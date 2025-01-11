@@ -38,7 +38,6 @@ Welcome to the **Popup Design Project**! 🎉 This project features a beautifull
 
 ---
 
-# Clone the repository
 git clone [https://github.com/your-username/popup-design-project.git  ](https://github.com/enesatacan/PopupDesign)
 
 
